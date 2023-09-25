@@ -1,0 +1,6 @@
+- 👋 Olá, sou @NexyDevz
+- 👀 Estou interessado em kotlin
+- 🌱 Atualmente estou aprendendo php
+- 💞️ Procuro colaborar em C++,Html,Js,Css
+- 📫 Como entrar em contato comigo:
+-  https://discord.gg/ntxjFctv7F
